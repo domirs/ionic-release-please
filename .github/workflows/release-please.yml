@@ -18,9 +18,9 @@ jobs:
       - uses: googleapis/release-please-action@v4
         id: release
         with:
-          release-type: node
           target-branch: ${{ github.ref_name }}
           config-file: release-please-config.json
+          manifest-file: .release-please-manifest.json
       # The logic below handles the npm publication:
       - uses: actions/checkout@v6
         # these if statements ensure that a publication only occurs when

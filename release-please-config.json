@@ -1,12 +1,17 @@
 {
-  "extra-files": [
-    {
-      "type": "generic",
-      "path": "android/app/build.gradle"
-    },
-    {
-      "type": "generic",
-      "path": "ios/App/App.xcodeproj/project.pbxproj"
+  "packages": {
+    ".": {
+      "release-type": "node",
+      "extra-files": [
+        {
+          "type": "generic",
+          "path": "android/app/build.gradle"
+        },
+        {
+          "type": "generic",
+          "path": "ios/App/App.xcodeproj/project.pbxproj"
+        }
+      ]
     }
-  ]
+  }
 }
