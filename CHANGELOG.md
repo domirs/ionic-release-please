@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/domirs/ionic-release-please/compare/v1.1.0...v1.2.0) (2026-03-19)
+
+
+### Features
+
+* :sparkles: update tab name to 1 ([e78ab4e](https://github.com/domirs/ionic-release-please/commit/e78ab4e14833c5bdd73df5a32de63169fda8875b))
+* :sparkles: update tab name to 12 ([15fdb67](https://github.com/domirs/ionic-release-please/commit/15fdb67e27c8505585cfc6191843f1e5821d6e8e))
+
 ## [1.1.0](https://github.com/domirs/ionic-release-please/compare/v1.0.0...v1.1.0) (2026-03-19)
 
 
