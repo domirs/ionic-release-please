@@ -1,0 +1,6 @@
+{
+  "extra-files": [
+    "android/app/build.gradle",
+    "ios/App/App.xcodeproj/project.pbxproj"
+  ]
+}
