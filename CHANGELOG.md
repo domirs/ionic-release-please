@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.4.0](https://github.com/domirs/ionic-release-please/compare/v1.3.0...v1.4.0) (2026-03-19)
+
+
+### Features
+
+* :sparkles: update tab name to 1002 ([41ab722](https://github.com/domirs/ionic-release-please/commit/41ab722499d5bdcae2e385a8b07b481d95e6c99b))
+* :sparkles: update tab name to 1003 ([3b72562](https://github.com/domirs/ionic-release-please/commit/3b72562ac931307b65155102abf3e956fc953b01))
+
+
+### Bug Fixes
+
+* :bug: update tab name to 1001 ([bf2d474](https://github.com/domirs/ionic-release-please/commit/bf2d4749196cc2a499dad659987f4d9ae29be2fa))
+
 ## [1.3.0](https://github.com/domirs/ionic-release-please/compare/v1.2.0...v1.3.0) (2026-03-19)
 
 
