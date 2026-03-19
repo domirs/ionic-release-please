@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.5.0](https://github.com/domirs/ionic-release-please/compare/v1.4.0...v1.5.0) (2026-03-19)
+
+
+### Features
+
+* :sparkles: update build gradle ([7323c06](https://github.com/domirs/ionic-release-please/commit/7323c06b855a93d1b021578f6c40d42a5417167a))
+* :sparkles: update ios build ([24479bf](https://github.com/domirs/ionic-release-please/commit/24479bfafe532ae8d2ba91cab126e3f4daa39b30))
+* :sparkles: update ios build ([bb7324a](https://github.com/domirs/ionic-release-please/commit/bb7324a844b775d8e85ca22f0138806e4016025b))
+* :sparkles: update ios build ([6624d3b](https://github.com/domirs/ionic-release-please/commit/6624d3bf7712b46350ab62ce59ff0803258ac686))
+* :sparkles: update tab name to 1004 ([6d144f0](https://github.com/domirs/ionic-release-please/commit/6d144f0173d9eae2bc1698ea252c6295182c8fc2))
+
 ## [1.4.0](https://github.com/domirs/ionic-release-please/compare/v1.3.0...v1.4.0) (2026-03-19)
 
 
