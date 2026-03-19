@@ -9,7 +9,7 @@ android {
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         // x-release-please-start-version
-        versionName "3.0.0"
+        versionName "3.1.0"
         // x-release-please-end
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {

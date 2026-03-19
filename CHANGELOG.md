@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/domirs/ionic-release-please/compare/v3.0.0...v3.1.0) (2026-03-19)
+
+
+### Features
+
+* add new tab title ([fe94b42](https://github.com/domirs/ionic-release-please/commit/fe94b42b2f2ad249968d3f554e8e18f88813fe24))
+
 ## [3.0.0](https://github.com/domirs/ionic-release-please/compare/v2.0.0...v3.0.0) (2026-03-19)
 
 
