@@ -1,6 +1,12 @@
 {
   "extra-files": [
-    "android/app/build.gradle",
-    "ios/App/App.xcodeproj/project.pbxproj"
+    {
+      "type": "generic",
+      "path": "android/app/build.gradle"
+    },
+    {
+      "type": "generic",
+      "path": "ios/App/App.xcodeproj/project.pbxproj"
+    }
   ]
 }
