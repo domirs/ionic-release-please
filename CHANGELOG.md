@@ -7,6 +7,14 @@
 
 * :sparkles: update tab name to 123 ([beb3ea3](https://github.com/domirs/ionic-release-please/commit/beb3ea38c3547ff1c1c109774f88115cb70f1498))
 
+## [1.2.1](https://github.com/domirs/ionic-release-please/compare/v1.2.0...v1.2.1) (2026-03-19)
+
+
+### Bug Fixes
+
+* :bug: update tab name to 1000 ([a535a73](https://github.com/domirs/ionic-release-please/commit/a535a734dc427b99e32f8b781236d41cd690d97b))
+* :bug: update tab name to 2000 ([53247a7](https://github.com/domirs/ionic-release-please/commit/53247a724b8b28339487ebc07f1d059e4a127153))
+
 ## [1.2.0](https://github.com/domirs/ionic-release-please/compare/v1.1.0...v1.2.0) (2026-03-19)
 
 
