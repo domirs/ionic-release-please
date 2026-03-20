@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/domirs/ionic-release-please/compare/v3.0.0...v3.0.1) (2026-03-20)
+
+
+### Bug Fixes
+
+* :bug: update tab name to 3333 ([14133ef](https://github.com/domirs/ionic-release-please/commit/14133eff9fe82d3dc1bfdb0608ff4aded9960a21))
+
 ## [3.0.0](https://github.com/domirs/ionic-release-please/compare/v2.0.0...v3.0.0) (2026-03-19)
 
 
